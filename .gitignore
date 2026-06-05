@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.pkl
+*.xlsx
+venv/
+.env
+uploads/
+dataset/
+data/
+Cropped_faces/
+excel_reports/
+models/
