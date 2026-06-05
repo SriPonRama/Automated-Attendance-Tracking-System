@@ -1,13 +1,10 @@
 flask
 gunicorn
-pandas==2.2.2
 openpyxl==3.1.2
 urllib3==2.1.0
 requests==2.31.0
 numpy==1.26.4
-face_recognition
-dlib==20.0.1
-PyQt5==5.15.10
 twilio==8.10.0
-opencv-python
-opencv-contrib-python
+opencv-python-headless
+opencv-contrib-python-headless
+pandas==2.2.2
